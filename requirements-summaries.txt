@@ -1,0 +1,3 @@
+# Statistics from saved outputs; no torch/model training required.
+numpy>=1.26
+pandas>=2.1
